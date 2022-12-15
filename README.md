@@ -1,6 +1,4 @@
 # Maze
-# Introduction
-Everything you need to know about this project is listed in this [article]().
 # Installation
 * ```git clone https://github.com/```
 # Usage
