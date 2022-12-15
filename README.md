@@ -1,6 +1,6 @@
 # Maze
 # Installation
-* ```git clone https://github.com/```
+* ```git clone https://github.com/DanielMbithiMusau/The-Maze.git```
 # Usage
 * Execute ```./maze``` or type ```make run``` to open the game
 * Use up and down arrow keys to move farward and back
